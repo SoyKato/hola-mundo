@@ -1,5 +1,4 @@
-# hola-mundo
-Mi primer repositorio
+XD
+Rama alterna 
 
-Autor: Daiji Kato
-Fecha: 7 de Octubre del 2002
+dojyan~
